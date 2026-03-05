@@ -1,0 +1,2 @@
+# Normal code
+print("hello")
