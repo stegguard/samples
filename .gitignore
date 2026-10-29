@@ -1,0 +1,3 @@
+# Extension-handling stubs: 30-byte text files with media/binary extensions.
+# They trip structural false positives and are kept out of the public samples.
+llm_data/
